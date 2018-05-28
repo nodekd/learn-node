@@ -1,0 +1,2 @@
+ipconfig
+exit
